@@ -9,10 +9,31 @@
     <description>Recent content on Laboratorinis Arminas Petraitis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Dec 2023 00:38:05 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 00:58:46 +0200</lastBuildDate>
     
 	<atom:link href="https://armisss4.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Paveiksliukas</title>
+      <link>https://armisss4.github.io/posts/paveiksliukas/</link>
+      <pubDate>Mon, 11 Dec 2023 00:58:46 +0200</pubDate>
+      
+      <guid>https://armisss4.github.io/posts/paveiksliukas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;hello world&amp;#34;) } 
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Puslapis</title>
